@@ -14,7 +14,7 @@ Videos of the talks are at <https://www.youtube.com/channel/UCT2TrH2M4zbRJZMH6iu
 - [Artificial Neural Networks in R with Keras and TensorFlow](https://github.com/leonjessen/RPharma2020)
 Leon Eyrich Jessen (DTU)
 
-- [Multilingual Markdown with R and Python Using Reticulate](https://github.com/atorus-research/MultilingualMarkdown) [:yt:](https://www.youtube.com/watch?v=fEoZynvUrkc&t=5124s)
+- [Multilingual Markdown with R and Python Using Reticulate](https://github.com/atorus-research/MultilingualMarkdown) [:tv:](https://www.youtube.com/watch?v=fEoZynvUrkc&t=5124s)
 Mike Stackhouse (Atorus), Nathan Kosiba (Atorus)
 
 - [Tidy Transciptomics](https://stemangiola.github.io/rpharma2020_tidytranscriptomics/index.html) [GitHub](https://github.com/stemangiola/rpharma2020_tidytranscriptomics/)
