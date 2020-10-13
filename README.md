@@ -37,6 +37,7 @@ Rich Iannone (RStudio) [_@riannone](https://twitter.com/riannone)
 
 - [Unleash Shiny](https://rinterface.com/shiny/talks/RPharma2020/#1)
 David Granjon (Novartis), John Coene (World Economic Forum), Colin Fay (ThinkR)
+    * Post-workshop discussion on exercises: [:tv: Exercise 1](https://www.youtube.com/watch?v=VX8-szdSHZo), [:tv: Exercise 2](https://www.youtube.com/watch?v=6RMVLR2mjk4), [:tv: Exercise 3](https://www.youtube.com/watch?v=1WqlTndmO3Uj)
 
 - [A PK & PBPK Modelling Workflow in R: Simulation, Optimization & Visualization](https://github.com/metrumresearchgroup/r-pharma-pkpd-2020)
 Devin Pastoor (Metrum Research Group) & Kyle Baron (Metrum Research Group)
@@ -54,16 +55,16 @@ Emil Hvitfeldt (University Southern California)
 - [Stack'Em High! Ensembles Using tidymodels](https://github.com/topepo/2020-r-pharma)
    Max Kuhn (RStudio) [_@topepos](https://twitter.com/topepos) / Simon Couch (Reed College)
 
-- [The R Validation Hub: Implementing a Risk-Based Approach to R]
+- [The R Validation Hub: Implementing a Risk-Based Approach to R](https://pharmar.github.io/rpharma2020/)
    Andy Nicholls (Glaxosmithkline)
 
-- [Interactive Medical Oversight Reporting in R]
+- [Interactive Medical Oversight Reporting in R](https://medical-monitoring.openanalytics.io/slides), [Example Report](https://medical-monitoring.openanalytics.io/report/)
    Laure Cougnaud / Michela Pasetto / Arne de Roeck (OpenAnalytics and Galapagos)
 
 - [Implementing Mixed Models with Repeated Measures (MMRM) in R and Shiny for Regulatory Purposes]
    Daniel Sabanes Bove (Roche)
 
-- [R Package Validation Framework]
+- [R Package Validation Framework](https://thebioengineer.github.io/validation_rpharma/)
    Ellis Hughes (Fred Hutch)
 
 - [metashiny: Build Shiny Apps with a Shiny App]
