@@ -109,7 +109,7 @@ Emil Hvitfeldt (University Southern California)
 - [Leveraging Nested Data Frames in Regulatory Submissions] [:cloud: RStudio Cloud](https://rstudio.cloud/spaces/96724/projects) Slides are available in the RStudio Project.
    Mike Mehan (Illumina Inc)
 
-- [PREP – Packages fRom tEmPlates -An R Package to Streamline Development of Shiny Apps and R Packages] ["house"](https://biopharmsoftgrp.github.io/PREP/index.html)
+- [PREP – Packages fRom tEmPlates -An R Package to Streamline Development of Shiny Apps and R Packages] [:house:](https://biopharmsoftgrp.github.io/PREP/index.html)
    J. Kyle Wathen (Gilead)
 
 - [openNCA - open source Pharmacokinetic data repository and Non-compartmental Analysis System] [:octocat:](https://github.com/tensfeldt/openNCA)
