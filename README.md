@@ -49,6 +49,7 @@ Emil Hvitfeldt (University Southern California)
 
 ## Talks Material
 
+### Day 1
 - [Challenges in an Evolving Regulatory Landscape: How Statisticians can Contribute]
    Matilde Kam (FDA)
 
@@ -82,6 +83,8 @@ Emil Hvitfeldt (University Southern California)
 - [Becoming Multilingual]
    Bella Feng (Gilead)
 
+### Day 2
+
 - [Data Visualization Practices for Real World Machine Learning]
    Julia Silge (RStudio)
 
@@ -91,35 +94,37 @@ Emil Hvitfeldt (University Southern California)
 - [With Great Graphs Comes Great Power]
    Baldur Magnusson (Novartis)
 
-- [visR - A Package for Effective Visualizations in Pharma]
+- [visR - A Package for Effective Visualizations in Pharma] [:house:](https://openpharma.github.io/visR/)
    Charlotta Früchtenicht (Roche)
 
-- [safetyGraphics v2.0 - Open Source Collaboration in Pharma using R and Shiny]
+- [safetyGraphics v2.0 - Open Source Collaboration in Pharma using R and Shiny](https://github.com/SafetyGraphics/SafetyGraphics.github.io/raw/master/presentations/SafetyGraphics_RPharma2020.pdf)
    Jeremy Wildfire (Gilead)
 
-- [Styling Shiny & R Markdown with bootstraplib & thematic]
+- [Styling Shiny & R Markdown with bootstraplib & thematic](https://talks.cpsievert.me/20201014/#1)
    Carson Sievert (RStudio)
 
 - [Clinical Reporting Using R at GSK]
    Michael Rimler (Glaxosmithkline)
 
-- [Leveraging Nested Data Frames in Regulatory Submissions]
+- [Leveraging Nested Data Frames in Regulatory Submissions] [:cloud: RStudio Cloud](https://rstudio.cloud/spaces/96724/projects) Slides are available in the RStudio Project.
    Mike Mehan (Illumina Inc)
 
-- [PREP – Packages fRom tEmPlates -An R Package to Streamline Development of Shiny Apps and R Packages]
+- [PREP – Packages fRom tEmPlates -An R Package to Streamline Development of Shiny Apps and R Packages] ["house"](https://biopharmsoftgrp.github.io/PREP/index.html)
    J. Kyle Wathen (Gilead)
 
-- [openNCA - open source Pharmacokinetic data repository and Non-compartmental Analysis System]
+- [openNCA - open source Pharmacokinetic data repository and Non-compartmental Analysis System] [:octocat:](https://github.com/tensfeldt/openNCA)
    Thomas Tensfeldt (Pfizer)
 
-- [tidyCDISC an Open Source Platform in R to Analyze Clinical Trial Data]
+- [tidyCDISC an Open Source Platform in R to Analyze Clinical Trial Data](https://github.com/MayaGans/tidyCDISC-slides) [:tv: Demo](https://vimeo.com/466364530)
    Maya Gans / Marly Gotti (Cytel and Biogen)
 
-- [Tplyr: An Intuitive Framework for Building Clinical Safety Summaries]
+- [Tplyr: An Intuitive Framework for Building Clinical Safety Summaries] [:house:](https://atorus-research.github.io/Tplyr/)
    Mike Stackhouse (Atorus)
 
-- [yspec: an R Package to Create and Deploy Data Set Specification Objects in a Modeling and Simulation Workflow]
+- [yspec: an R Package to Create and Deploy Data Set Specification Objects in a Modeling and Simulation Workflow](https://metrumresearchgroup.github.io/yspec/rpharma-2020.pdf)
    Kyle Baron (Metrum)
+
+### Day 3
 
 - [Would John, Paul, George or Ringo Have Been Famous if it Were Not For The Beatles]
    Douglas Robinson (Novartis)
