@@ -3,6 +3,7 @@ Links to slides from [R/Pharma::conf 2020](https://rinpharma.com/)
 
 Pull requests welcome! Or add an issue, or tweet [_@freestatman](https://twitter.com/freestatman).
 
+Most slides are hosted at rinpharma's GitHub repo [:octocat:]<https://github.com/rinpharma/2020_presentations/>.
 Videos of the talks are at <https://www.youtube.com/channel/UCT2TrH2M4zbRJZMH6iusyBQ>.
 
 ------------------------------------------------------------------------
@@ -62,39 +63,39 @@ Emil Hvitfeldt (University Southern California)
 - [Interactive Medical Oversight Reporting in R](https://medical-monitoring.openanalytics.io/slides), [Example Report](https://medical-monitoring.openanalytics.io/report/)
    Laure Cougnaud / Michela Pasetto / Arne de Roeck (OpenAnalytics and Galapagos)
 
-- [Implementing Mixed Models with Repeated Measures (MMRM) in R and Shiny for Regulatory Purposes]
+- [Implementing Mixed Models with Repeated Measures (MMRM) in R and Shiny for Regulatory Purposes](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Sabanes_Bove-Implementing_MMRM_in_R.pdf)
    Daniel Sabanes Bove (Roche)
 
 - [R Package Validation Framework](https://thebioengineer.github.io/validation_rpharma/)
    Ellis Hughes (Fred Hutch)
 
-- [metashiny: Build Shiny Apps with a Shiny App]
+- [metashiny: Build Shiny Apps with a Shiny App](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Wang-metashiny.pptx)
    Bo Wang (Novartis)
 
 - [Out of Chaos, Comes Order: Adventures in Standardized and Reproducible Research]
    Leigh Alexander (SomaLogic)
 
-- [Numerical Validation as a Critical Aspect in Bringing R to the Clinical Research]
+- [Numerical Validation as a Critical Aspect in Bringing R to the Clinical Research](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Olszewski-Numerical_Validation_Clinical_Research.pdf)
    Adrian Olszewski (2kmm)
 
-- [geoMapr: A Shiny Application for Enriched Analysis of Drug Utilization Data]
+- [geoMapr: A Shiny Application for Enriched Analysis of Drug Utilization Data](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Song-geoMapr.pptx)
    Jae Joon Song (FDA)
 
-- [Becoming Multilingual]
+- [Becoming Multilingual](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Feng-Becoming_Multilingual.pptx)
    Bella Feng (Gilead)
 
 ### Day 2
 
-- [Data Visualization Practices for Real World Machine Learning]
+- [Data Visualization Practices for Real World Machine Learning](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Silge-Data_Visualization_Real_World_ML.pdf)
    Julia Silge (RStudio)
 
-- [Using R to Create End to End Process Predicting Delay in Recruitment from Covid-19]
+- [Using R to Create End to End Process Predicting Delay in Recruitment from Covid-19](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Fillmore-Recruitment_Covid19.pptx)
    Christina Fillmore (Glaxosmithkline)
 
-- [With Great Graphs Comes Great Power]
+- [With Great Graphs Comes Great Power](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Magnusson-Graphs_and_Power.pptx)
    Baldur Magnusson (Novartis)
 
-- [visR - A Package for Effective Visualizations in Pharma] [:house:](https://openpharma.github.io/visR/)
+- [visR - A Package for Effective Visualizations in Pharma](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Fruchtenicht-visR.pdf) [:house:](https://openpharma.github.io/visR/)
    Charlotta Früchtenicht (Roche)
 
 - [safetyGraphics v2.0 - Open Source Collaboration in Pharma using R and Shiny](https://github.com/SafetyGraphics/SafetyGraphics.github.io/raw/master/presentations/SafetyGraphics_RPharma2020.pdf)
@@ -103,16 +104,16 @@ Emil Hvitfeldt (University Southern California)
 - [Styling Shiny & R Markdown with bootstraplib & thematic](https://talks.cpsievert.me/20201014/#1)
    Carson Sievert (RStudio)
 
-- [Clinical Reporting Using R at GSK]
+- [Clinical Reporting Using R at GSK](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Rimler-Clinical_Reporting_GSK.pptx)
    Michael Rimler (Glaxosmithkline)
 
-- [Leveraging Nested Data Frames in Regulatory Submissions] [:cloud: RStudio Cloud](https://rstudio.cloud/spaces/96724/projects) Slides are available in the RStudio Project.
+- [Leveraging Nested Data Frames in Regulatory Submissions](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Mehan-Nested_Data_Frames.pptx) [:cloud: RStudio Cloud](https://rstudio.cloud/spaces/96724/projects) Slides are available in the RStudio Project.
    Mike Mehan (Illumina Inc)
 
-- [PREP – Packages fRom tEmPlates -An R Package to Streamline Development of Shiny Apps and R Packages] [:house:](https://biopharmsoftgrp.github.io/PREP/index.html)
+- [PREP – Packages fRom tEmPlates -An R Package to Streamline Development of Shiny Apps and R Packages](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Wathen-PREP.pptx) [:house:](https://biopharmsoftgrp.github.io/PREP/index.html)
    J. Kyle Wathen (Gilead)
 
-- [openNCA - open source Pharmacokinetic data repository and Non-compartmental Analysis System] [:octocat:](https://github.com/tensfeldt/openNCA)
+- [openNCA - open source Pharmacokinetic data repository and Non-compartmental Analysis System](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Tensfeldt-OpenNCA.pptx) [:octocat:](https://github.com/tensfeldt/openNCA)
    Thomas Tensfeldt (Pfizer)
 
 - [tidyCDISC an Open Source Platform in R to Analyze Clinical Trial Data](https://github.com/MayaGans/tidyCDISC-slides) [:tv: Demo](https://vimeo.com/466364530)
@@ -126,42 +127,42 @@ Emil Hvitfeldt (University Southern California)
 
 ### Day 3
 
-- [Would John, Paul, George or Ringo Have Been Famous if it Were Not For The Beatles]
+- [Would John, Paul, George or Ringo Have Been Famous if it Were Not For The Beatles](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Robinson-Would_John_Paul_George_Ringo_Have_Been_Famous_Without_Beatles.pdf)
    Douglas Robinson (Novartis)
 
-- [Julia in Pharma: The Ease of R Combined With The Speed of C++]
+- [Julia in Pharma: The Ease of R Combined With The Speed of C++](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Shah-Julia_in_Pharma.pdf)
    Viral Shah (Julia Computing)
 
-- [Building and Managing Unified R Environments For Data Science and Software Development]
+- [Building and Managing Unified R Environments For Data Science and Software Development](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Ratman-Unified_R_Environments.pdf)
    Dariusz Ratman (Roche)
 
-- [Using R Markdown to Generate Clinical Trials Summary Reports]
+- [Using R Markdown to Generate Clinical Trials Summary Reports](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Etikala-R_Markdown_Clinical_Trial_Summary_Reports.pptx)
    Radhika Etikala / Xuehan (Emily) Zhang (Fred Hutch)
 
-- [Reproducible Computation at Scale With targets]
+- [Reproducible Computation at Scale With targets](https://wlandau.github.io/rpharma2020/#1)
    Will Landau (Eli Lilly)
 
 - [Seamless Visualisation of Complex Genomic Variations in GMOs and Edited Cell Lines Using gmoviz]
    Kathleen Zeglinski (CSL)
 
-- [Improving Robustness of Evidence when Evaluating Causal Effects of Pharmaceutical Drugs in Healthcare Databases]
+- [Automated Data-Drive Analytics to Improve Robustness of Causal Effectiveness Studies in Healthcare Databases](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Wyss-Automated_Data_Adaptive_Analytics.pdf)
    Richard Wyss (Harvard Medical School)
 
-- [r2rtf - a Lightweight R Package to Produce Tables and Figures in RTF Format]
+- [r2rtf - a Lightweight R Package to Produce Tables and Figures in RTF Format](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Zhang-r2rtf.pdf)
    Yilong Zhang (Merck)
 
-- [Benchmarking Algorithms for Subgroup Detection]
+- [Benchmarking Algorithms for Subgroup Detection](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Sun-Subgroup_Benchmarking.pdf)
    Sophie Sun (Novartis)
 
-- [The “See”-Value App: Visual Decision Making for Drug Development]
+- [The “See”-Value App: Visual Decision Making for Drug Development](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Diehl-See_Value_App.pdf)
    Hannah Diehl (MIT)
 
-- [It's a trap! A Data Science Case Story]
+- [It's a trap! A Data Science Case Story](https://rpubs.com/leonjessen/rpharma2020)
    Leon Eyrich Jessen (Technical University of Denmark)
 
-- [X-Omics Platform]
+- [X-Omics Platform](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Pinkert-X_Omics_Platform.pdf)
    Stefan Pinkert (Merck)
 
-- [RStudio's Pharma Updates]
+- [RStudio's Pharma Updates](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Lopp-RStudio_Pharma_Updates.pdf) [:tv:](https://drive.google.com/file/d/14W5Q-ERiH6tBpyEZH56kRcnp-N-ewV9Q/view)
    Sean Lopp (RStudio)
 
