@@ -120,7 +120,7 @@ Emil Hvitfeldt (University Southern California)
 - [tidyCDISC an Open Source Platform in R to Analyze Clinical Trial Data](https://github.com/MayaGans/tidyCDISC-slides) [:tv: Demo](https://vimeo.com/466364530)
    Maya Gans / Marly Gotti (Cytel and Biogen)
 
-- [Tplyr: An Intuitive Framework for Building Clinical Safety Summaries] [:house:](https://atorus-research.github.io/Tplyr/)
+- [Tplyr: An Intuitive Framework for Building Clinical Safety Summaries](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Stackhouse-Tplyr.pptx) [:house:](https://atorus-research.github.io/Tplyr/)
    Mike Stackhouse (Atorus)
 
 - [yspec: an R Package to Create and Deploy Data Set Specification Objects in a Modeling and Simulation Workflow](https://metrumresearchgroup.github.io/yspec/rpharma-2020.pdf)
@@ -143,7 +143,7 @@ Emil Hvitfeldt (University Southern California)
 - [Reproducible Computation at Scale With targets](https://wlandau.github.io/rpharma2020/#1)
    Will Landau (Eli Lilly)
 
-- [Seamless Visualisation of Complex Genomic Variations in GMOs and Edited Cell Lines Using gmoviz]
+- [Seamless Visualisation of Complex Genomic Variations in GMOs and Edited Cell Lines Using gmoviz] [:octocat:](https://github.com/malhamdoosh/gmoviz)
    Kathleen Zeglinski (CSL)
 
 - [Automated Data-Drive Analytics to Improve Robustness of Causal Effectiveness Studies in Healthcare Databases](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Wyss-Automated_Data_Adaptive_Analytics.pdf)
