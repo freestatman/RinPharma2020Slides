@@ -3,7 +3,7 @@ Links to slides from [R/Pharma::conf 2020](https://rinpharma.com/)
 
 Pull requests welcome! Or add an issue, or tweet [_@freestatman](https://twitter.com/freestatman).
 
-Most slides are hosted at rinpharma's GitHub repo [:octocat:]<https://github.com/rinpharma/2020_presentations/>.
+Most slides are hosted at rinpharma's GitHub repo [:octocat:](https://github.com/rinpharma/2020_presentations/).
 Videos of the talks are at <https://www.youtube.com/channel/UCT2TrH2M4zbRJZMH6iusyBQ>.
 
 ------------------------------------------------------------------------
