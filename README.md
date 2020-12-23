@@ -93,7 +93,7 @@ Emil Hvitfeldt (University Southern California)
 - [Using R to Create End to End Process Predicting Delay in Recruitment from Covid-19](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Fillmore-Recruitment_Covid19.pptx)
    Christina Fillmore (Glaxosmithkline)
 
-- [With Great Graphs Comes Great Power](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Magnusson-Graphs_and_Power.pptx)
+- [With Great Graphs Comes Great Power](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Magnusson-Graphs_and_Power.pdf)
    Baldur Magnusson (Novartis)
 
 - [visR - A Package for Effective Visualizations in Pharma](https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Fruchtenicht-visR.pdf) [:house:](https://openpharma.github.io/visR/)
